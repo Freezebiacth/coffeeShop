@@ -3,7 +3,7 @@
     justify-content: center;
     align-items: center;
     height: 75vh;
-    background-color: #c79a5f;
+    background-color: #302008;
     padding: 20px;
   }
   
@@ -28,7 +28,7 @@
     font-weight: bold;
     margin-top: 0px; 
     margin-bottom: 0px;
-    color: #000000;
+    color: #ffffff;
   }
   
   .about-content .ID {
@@ -37,7 +37,7 @@
     font-weight: lighter;
     margin-top: 0px;
     margin-bottom: 30px;
-    color: #000000;
+    color: #ffffff;
   }
   
   .about-content .text-container {
@@ -48,7 +48,7 @@
     margin: 0 auto;
     line-height: 1.5;
     text-align: center;
-    color: #464646;
+    color: #ffffff;
   }
   
   .profile-photo {
