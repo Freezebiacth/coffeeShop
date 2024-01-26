@@ -5,6 +5,8 @@
   align-items: center;
   padding: 10px;
   width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .navbar a {
@@ -30,8 +32,8 @@
   transform: scale(1.1);
 }
 
-.logo {
+/* .logo {
   margin-left: 0px;
   width: 60px;
   margin-right: 10px;
-}
+} */
